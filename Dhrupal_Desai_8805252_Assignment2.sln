@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dhrupal_Desai_8805252_Assignment2", "Dhrupal_Desai_8805252_Assignment2.csproj", "{114BB3D6-8DB3-4316-AE41-5B92A93DB49A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleTest", "..\RectangleTest\RectangleTest.csproj", "{7B1D7946-2CE6-4F67-8DEF-092BD9839DEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{114BB3D6-8DB3-4316-AE41-5B92A93DB49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{114BB3D6-8DB3-4316-AE41-5B92A93DB49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{114BB3D6-8DB3-4316-AE41-5B92A93DB49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1D7946-2CE6-4F67-8DEF-092BD9839DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1D7946-2CE6-4F67-8DEF-092BD9839DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1D7946-2CE6-4F67-8DEF-092BD9839DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1D7946-2CE6-4F67-8DEF-092BD9839DEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
